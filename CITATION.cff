@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: lambs-soln-exterior
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kaitlyn
+    family-names: Hood
+    email: kthood@purdue.edu
+    affiliation: Purdue University
+    orcid: 'https://orcid.org/0000-0002-3172-8067'
+repository-code: 'https://github.com/kthood/lambs-soln-exterior'
+abstract: >-
+  Computes the Lamb's Solution exterior to the sphere,
+  following the derivation provided by "Microhydrodynamics:
+  Principles and Selected Applications" by Kim & Karrilla.
+keywords:
+  - Stokes flow
+  - Lamb's solution
+license: GPL-3.0-or-later
+commit: 926d965
+version: 1.0.0
+date-released: '2015-09-12'
